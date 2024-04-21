@@ -14,11 +14,11 @@ UniqMerge is a lightweight shell script designed to merge multiple text files in
 
 1. **Download:** Clone or download the UniqMerger repository to your local machine.
 
-2. **Execute:** Open a terminal window, navigate to the directory containing the UniqMerger script (`merge_files.sh`), and give execute permission with `chmod +x merge_files.sh`.
+2. **Execute:** Open a terminal window, navigate to the directory containing the UniqMerger script (`UniqMerger.sh`), and give execute permission with `chmod +x UniqMerger.sh`.
 
 3. **Merge Files:** Run the script by providing the name of the output file and the names of the input files to be merged. For example:
    ```bash
-   ./merge_files.sh merged.txt file1.txt file2.txt file3.txt
+   ./UniqMerger.sh merged.txt file1.txt file2.txt file3.txt
    ```
 
 4. **Verify:** Check the generated output file (`merged.txt`) to ensure that the merging operation was successful.
